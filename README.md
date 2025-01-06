@@ -1,23 +1,25 @@
-# Projeto SQL - Comandos de Criação, Inserção, Atualização e Exclusão
+# Comandos SQL - Estudo e Prática
 
-Este repositório contém uma série de comandos SQL utilizados para gerenciar um banco de dados de exemplo. O banco de dados é composto por tabelas relacionadas a clientes, produtos, pedidos, fornecedores, entre outros.
+Este repositório contém uma coleção de comandos SQL que foram criados para fins de estudo e prática. Eles envolvem operações de criação, inserção, atualização e exclusão de dados em um banco de dados de exemplo. O foco é aprender como interagir com bancos de dados relacionais, utilizando comandos SQL básicos e intermediários.
 
-## Estrutura do Projeto
+## Estrutura do Repositório
 
-O projeto está dividido em várias pastas e arquivos que organizam os comandos SQL de forma lógica:
+O repositório está organizado em pastas para uma navegação mais fácil:
 
-### 1. **comandos_sql**
-   - **criação_tabelas.sql**: Contém os comandos de criação das tabelas do banco de dados.
-   - **insercao_clientes.sql**: Contém os comandos de inserção de dados na tabela de clientes.
-   - **comandos_atualizacao.sql**: Contém comandos SQL para atualizar os dados no banco de dados.
-   - **comandos_exclusao.sql**: Contém comandos SQL para excluir dados do banco de dados.
+1. **comandos_sql/**  
+   Contém os arquivos com os comandos SQL divididos por tipo de operação.
+   - **criação_tabelas.sql**: Comandos para a criação das tabelas no banco de dados.
+   - **insercao_clientes.sql**: Comandos para inserir dados na tabela de clientes.
+   - **comandos_atualizacao.sql**: Comandos para atualizar dados no banco de dados.
+   - **comandos_exclusao.sql**: Comandos para excluir dados do banco de dados.
 
-### 2. **README.md**
-   - Este arquivo, que fornece uma visão geral sobre o projeto e como utilizá-lo.
+2. **README.md**  
+   Este arquivo, que fornece uma visão geral do repositório e como utilizá-lo.
 
 ## Como Usar
 
-1. Clone o repositório para sua máquina local:
-   ```bash
+1. **Clone o repositório**:  
+   Para começar, clone o repositório em sua máquina local:
    
+   ```bash
    git clone https://github.com/seuusuario/seurepositorio.git
