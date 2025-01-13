@@ -12,3 +12,5 @@ O repositório está organizado em pastas para uma navegação mais fácil:
    - **insercao_clientes.sql**: Comandos para inserir dados na tabela de clientes.
    - **comandos_atualizacao.sql**: Comandos para atualizar dados no banco de dados.
    - **comandos_exclusao.sql**: Comandos para excluir dados do banco de dados.
+   - **alteracao_tabelas_sql**: Comandos para alterar a estrutura das tabelas (adicionar ou remover colunas, por exemplo).
+   - **consultas.sql**: Comandos para realizar consultas no banco de dados, com exemplos de seleção de dados.
