@@ -1,0 +1,1 @@
+ALTER TABLE HistoricoEmprego rename TO CargosColaboradores; -- Renomeia a tabela 'HistoricoEmprego' para 'CargosColaboradores'
